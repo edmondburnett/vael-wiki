@@ -9,6 +9,7 @@ Intentions
 - Design documents that outline intentional aesthetics choices and presentation guidelines for the projects related to Vael.
 - Links to the different software(s) and sites hosted by the Vael community.
 - Information on communication venues particular to or used by the community.
+- List of "official" and local hashtags commonly being used by the community and it's internal projects
 
 
 Tech
